@@ -1,17 +1,20 @@
-// App.tsx n
 import React from 'react';
-// App.tsx
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from './pages/home';
+import logo from './logo.svg';
 import './App.css';
+import ImageConverter from './components/ImgCoverter';
+import Text1 from './components/Task1';
+import Text3 from './components/task2';
 
+// import Footer from './components/Footer';
 function App() {
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<Home />} />
-      </Routes>
-    </Router>
+    <div className="App">
+ 
+         <ImageConverter />
+        <Text1/>
+        <Text3/>
+    </div>
+
   );
 }
 
