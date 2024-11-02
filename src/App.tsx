@@ -5,7 +5,7 @@ import ImageConverter from './components/ImgCoverter';
 import Text1 from './components/Task1';
 import Text3 from './components/task2';
 
-// import Footer from './components/Footer';
+// import Footer from './components/Footer';.
 function App() {
   return (
     <div className="App">
