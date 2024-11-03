@@ -9,7 +9,7 @@
 body {
   background-color: #f0f0f0; /* Light gray background */
   margin: 0; /* Reset margin */
-  padding: 0; /* Reset padding */
+  padding: 0; /* Reset padding t */
   font-family: 'Arial', sans-serif; /* Font styling for the whole body */
   display: flex;
   justify-content: center;
