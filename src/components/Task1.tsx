@@ -5,7 +5,6 @@ import React from 'react';
 const Text1: React.FC = () => {
     return (
         <div className="text-container">
-            <h1 className="text-title">Welcome to the Image Converter</h1>
             <p className="text-description">
                 This tool allows you to convert images to various formats easily. Upload your image and choose a format to get started!
             </p>

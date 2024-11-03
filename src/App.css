@@ -26,7 +26,7 @@ body {
   margin: 0 auto;
   padding: 30px; /* Increased padding for more space */
   border-radius: 10px;
-  margin-top: 100px;
+  margin-top: 50px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Slightly darker shadow */
   background-color: #fff;
 }
@@ -165,6 +165,7 @@ align-items: center;
     text-align: start;
     margin: 20px;
     padding: 0px S20px;
+    margin-top: 50px;
 }
 
 .text-title {
